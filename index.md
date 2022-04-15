@@ -3,7 +3,7 @@
 
 
 ### Homework 1
-[Here](hw1ıe360/Hayrettin İlbey Güngör Hw1.html)
+[Here](hw1/Hw1.html)
 
 ### Homework 2
 ### Homework 3
