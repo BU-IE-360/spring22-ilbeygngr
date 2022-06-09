@@ -13,3 +13,6 @@
 
 ### Group 21 Project html
 [Here](group21_project/group21_project.html)
+
+### Group 21 Project Report
+[Here](group21_projectreport/360report.docx)
